@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, please contact the project owner:
-- GitHub: [SRIJANSARASWAT](https://github.com/SRIJANSARASWAT)
+- GitHub: [Srijan Saraswat](https://github.com/SrijanSaraswat)
