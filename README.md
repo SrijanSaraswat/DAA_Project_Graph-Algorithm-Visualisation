@@ -27,7 +27,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SRIJANSARASWAT/DAA_Project_Graph-Algorithm-Visualisation.git
+   git clone https://github.com/SrijanSaraswat/DAA_Project_Graph-Algorithm-Visualisation.git
    ```
 2. Navigate to the project directory:
    ```sh
